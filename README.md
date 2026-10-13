@@ -1,0 +1,1 @@
+Before/after offscreen label fixture. Uses the bundled Russian catalog and PhotoCraft font setup through egui_kittest. This is a label rendering check, not a capture of the live application dialogs. The fixture is kept outside the pull request diff.
